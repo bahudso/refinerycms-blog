@@ -1,6 +1,6 @@
 # Refinery CMS Blog [![Build Status](https://travis-ci.org/refinery/refinerycms-blog.svg?branch=master)](https://travis-ci.org/refinery/refinerycms-blog)
 
-Simple blog engine for [Refinery CMS](http://refinerycms.com). It supports posts, categories and comments.
+Simple blog engine for [Refinery CMS](https://www.refinerycms.com). It supports posts, categories and comments.
 
 This version of `refinerycms-blog` supports Refinery 4.x and Rails 5.1.x (Ruby 2.2+). To use Rails 4.x / Refinery 3.1.x / Ruby 2.1 or older use the [refinerycms-blog "Refinery CMS 3-0 stable branch"](http://github.com/refinery/refinerycms-blog/tree/3-0-stable).
 
